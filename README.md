@@ -1,4 +1,4 @@
-# SMS Spam Classification using NLTK
+# Advanced SMS Spam Filter
 
 ## Project Overview
 This project involves developing a Naive Bayes classifier to distinguish between spam and ham SMS messages. Utilizing Natural Language Processing (NLP) techniques with Python and NLTK, the model achieves an impressive 98.03% accuracy.
